@@ -1,9 +1,20 @@
 git 命令
 git init
+git status
 
 git add
 git commit
 git push
 
 git clone [url]
-git branche
+git pull
+git branch []
+git checkout []
+
+git log
+git reflog
+git reset --hard []
+
+git merge []
+git base []
+
